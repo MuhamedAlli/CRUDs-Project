@@ -1,0 +1,69 @@
+﻿@model List<Instructor>
+@{
+    ViewData["Title"] = "Index";
+}
+<a href="~/Instructor/NewInst" class="btn btn-outline-primary">New Instructor</a>
+<br/>
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>Address</th>
+            <th>Details</th>
+            <th>Edit</th>
+            <th>Delete</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Name</td>
+                <td>@i.Salary</td>
+                <td>@i.Address</td>
+                <td><a href="~/Instructor/Details/@i.Id" class="btn btn-info">Details</a></td>
+                <td><a href="~/Instructor/Edit/@i.Id" class="btn btn-primary">Edit</a></td>
+                <td>
+                    <a href="~/Instructor/btnDelete/@i.Id"  class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal" onclick="getID(@i.Id)">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Deleting</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are You Sure Delete ?
+            </div>
+            <div class="modal-footer">
+                <a href="" class="btn btn-secondary" data-bs-dismiss="modal" id="btnCancel">Close</a>
+                <a href="" type="button" class="btn btn-danger" id="btnDelete">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function getID(id) {
+        document.getElementById("btnDelete").setAttribute("href", "/Instructor/Delete/"+id);
+    }
+
+
+
+</script>

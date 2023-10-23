@@ -1,0 +1,53 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index";
+}
+<a href="~/Course/New/" class="btn btn-info">New Course</a>
+<br />
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Max Degree</th>
+            <th>Min Degree</th>
+            <th>Department</th>
+            <th>Instructors</th>
+            @*<th>Details</th>*@
+            <th>Edit</th>
+            @*<th>Delete</th>*@
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CourseID</td>
+                <td>@c.Name</td>
+                <td>@c.Degree</td>
+                <td>@c.MinDegree</td>
+                <td>@c.Department.Name</td>
+                <td>
+                    <select class="form-control ">
+                    @foreach(var i in c.Instructors )
+                    {
+                        <option class="align-content-center text-center">@i.Name</option>
+                    }
+                    </select>
+                </td>
+
+                @*<td><a href="~/Course/Details/@c.CourseID" class="btn btn-info">Details</a></td>*@
+                <td><a href="~/Course/Edit/@c.CourseID" class="btn btn-primary">Edit</a></td>
+                @*<td>
+                    <a href="~/Course/btnDelete/@c.CourseID" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal" onclick="getID(@c.CourseID)">
+                        Delete
+                    </a>
+                </td>*@
+            </tr>
+        }
+
+    </tbody>
+</table>
+

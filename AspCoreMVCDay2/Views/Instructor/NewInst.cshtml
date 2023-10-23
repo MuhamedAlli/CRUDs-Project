@@ -1,0 +1,75 @@
+﻿@model Instructor
+
+@{
+    ViewData["Title"] = "NewInst";
+}
+<form method="post" action="AddNewInst" enctype="multipart/form-data">
+    <input type="hidden" name="imgPath" value="" id="imgPath" />
+    <label for="InstName">Name</label>
+    <input type="text" class="form-control" value="@Model?.Name" id="InstName" name="Name" placeholder="Enter Name">
+    <label for="Image">Image</label>
+    <input type="file" accept="image/*" onclick="showFileInfo()" class="form-control" value="@Model?.Image" name="formFile" id="formFile" placeholder="Image">
+    <label for="InstSalary">Salary</label>
+    <input type="number" class="form-control" value="@Model?.Salary" name="Salary" id="InstSalary" placeholder="Salary">
+    <label for="INStaddress">Address</label>
+    <input type="text" class="form-control" value="@Model?.Address" name="Address" id="INStaddress" placeholder="Address">
+
+    <label for="Department.DepartmentID">Departments</label>
+
+    <select name="Department.DepartmentID" id="Department.DepartmentID" class="form-control">
+        @foreach (Department d in ViewBag.departs)
+        {
+            <option value="@d.DepartmentID">@d.Name</option>
+        }
+
+    </select>
+
+    <label for="Course.CourseID">Courses</label>
+    <select name="Course.CourseID" id="Course.CourseID" class="form-control">
+        @foreach (Course c in ViewBag.courses)
+        {
+                <option value="@c.CourseID">@c.Name</option>
+             
+
+        }
+
+    </select>
+   
+    <br />    
+    <br />
+    <button type="submit"  class="btn btn-primary">Add New Instructor</button>
+</form>
+
+                
+<script>
+    let select = document.getElementById("Department.DepartmentID");
+    
+    select.onchange = (function () {
+            //alert(this.value);
+            $.ajax({
+                url: "/Course/getAllCoursesForDept/" + this.value, success: function (result) {
+
+                    console.log(result);
+
+                    // Get a reference to the select element
+                    var selectElement = document.getElementById("Course.CourseID");
+
+                    // Remove all existing options
+                    while (selectElement.firstChild) {
+                        selectElement.removeChild(selectElement.firstChild);
+                    }
+
+                    for (let i = 0; i < result.length; i++) {
+                        // Create new option elements and add them to the select
+                        var option1 = document.createElement("option");
+                        option1.value = result[i]["courseID"];
+                        option1.text = result[i]["name"];
+                        selectElement.appendChild(option1);
+
+                    }
+
+                }
+            });
+        }
+    )
+ </script>

@@ -1,0 +1,36 @@
+﻿@model List<ViewModelTraineeWithCourseWithDegree>
+@{
+    ViewData["Title"] = "TraineeWithCourse";
+}
+
+<h1>TraineeWithCourse</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Trainee Name</th>
+            <th>Course</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            string mycolor = "";
+            if (@t.Degree>=50)
+            {
+                mycolor = "green";
+            }
+            else
+            {
+                mycolor = "red";
+            }
+            <tr>
+                <td>@t.TraineeName</td>
+                <td>@t.CourseName</td>
+                <td style="color : @mycolor" > @t.Degree</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

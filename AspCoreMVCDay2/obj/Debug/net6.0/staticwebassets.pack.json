@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AspCoreMVCDay2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AspCoreMVCDay2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\1.png",
+      "PackagePath": "staticwebassets\\Images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\1817fbce-b1b3-49e0-8104-54519ccfde28ERD.png",
+      "PackagePath": "staticwebassets\\Images\\1817fbce-b1b3-49e0-8104-54519ccfde28ERD.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\5025c77d-f347-4118-bb14-a4c1acee71332.png",
+      "PackagePath": "staticwebassets\\Images\\5025c77d-f347-4118-bb14-a4c1acee71332.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\717f166e-b6e5-46b5-8c19-516bf914689cERD.png",
+      "PackagePath": "staticwebassets\\Images\\717f166e-b6e5-46b5-8c19-516bf914689cERD.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\97a0a7d9-a940-477a-a11f-2ca41919b3e22.png",
+      "PackagePath": "staticwebassets\\Images\\97a0a7d9-a940-477a-a11f-2ca41919b3e22.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\Images\\e7376a1e-a275-45d3-985d-64f0c6f181ab133623627_10157468560245706_7329832967441817834_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\e7376a1e-a275-45d3-985d-64f0c6f181ab133623627_10157468560245706_7329832967441817834_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AspCoreMVCDay2\\AspCoreMVCDay2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspCoreMVCDay2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspCoreMVCDay2.props",
+      "PackagePath": "build\\AspCoreMVCDay2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspCoreMVCDay2.props",
+      "PackagePath": "buildMultiTargeting\\AspCoreMVCDay2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspCoreMVCDay2.props",
+      "PackagePath": "buildTransitive\\AspCoreMVCDay2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
